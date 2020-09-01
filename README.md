@@ -1,13 +1,13 @@
 Para instalar
 -
-. Ajuste o arquivo .env
+Ajuste o arquivo .env
 
 Comandos para a Instalação
 -
-. "composer install".
+"composer install"
 
-. "npm install".
+"npm install"
 
-. "npm run dev".
+"npm run dev"
 
-. "php artisan migrate --seed".
+"php artisan migrate"
